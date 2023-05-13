@@ -1,0 +1,55 @@
+BINDINGMODE 0
+bind 1 CLICK BT4Button13:LeftButton
+bind 2 ACTIONBUTTON1
+bind 3 CLICK BT4Button15:LeftButton
+bind 4 CLICK BT4Button25:LeftButton
+bind 5 CLICK BT4Button17:LeftButton
+bind 6 CLICK BT4Button18:LeftButton
+bind 7 CLICK BT4Button20:LeftButton
+bind 8 ACTIONBUTTON8
+bind 9 CLICK BT4Button22:LeftButton
+bind 0 CLICK BT4Button32:LeftButton
+bind CTRL-F1 NONE
+bind CTRL-F2 NONE
+bind CTRL-F3 NONE
+bind CTRL-F4 NONE
+bind CTRL-F5 NONE
+bind CTRL-F6 NONE
+bind CTRL-F7 NONE
+bind CTRL-F8 NONE
+bind CTRL-F9 NONE
+bind CTRL-F10 NONE
+bind CTRL-1 NONE
+bind CTRL-2 NONE
+bind CTRL-3 NONE
+bind CTRL-4 NONE
+bind CTRL-5 NONE
+bind CTRL-6 NONE
+bind CTRL-7 NONE
+bind CTRL-8 NONE
+bind CTRL-9 NONE
+bind CTRL-0 NONE
+bind CTRL-M NONE
+bind CTRL-S NONE
+bind ALT-2 NONE
+bind ALT-8 NONE
+bind ALT-1 NONE
+bind ALT-3 NONE
+bind ALT-5 NONE
+bind ALT-6 NONE
+bind ALT-7 NONE
+bind ALT-9 NONE
+bind ALT-4 NONE
+bind ALT-0 NONE
+bind ALT-SHIFT-4 NONE
+bind ALT-SHIFT-1 NONE
+bind ALT-SHIFT-2 NONE
+bind ALT-SHIFT-3 NONE
+bind ALT-SHIFT-5 NONE
+bind ALT-BUTTON1 NONE
+bind ALT-SHIFT-6 NONE
+bind ALT-SHIFT-7 NONE
+bind ALT-SHIFT-0 NONE
+bind ALT-SHIFT-9 NONE
+bind ALT-SHIFT-8 NONE
+modifiedclick NONE SELFCAST

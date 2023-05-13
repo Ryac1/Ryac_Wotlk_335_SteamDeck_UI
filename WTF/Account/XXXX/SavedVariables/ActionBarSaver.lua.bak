@@ -1,0 +1,65 @@
+
+ActionBarSaverDB = {
+	["restoreRank"] = true,
+	["macro"] = false,
+	["sets"] = {
+		["DEATHKNIGHT"] = {
+		},
+		["WARRIOR"] = {
+		},
+		["PALADIN"] = {
+		},
+		["MAGE"] = {
+		},
+		["PRIEST"] = {
+		},
+		["WARLOCK"] = {
+		},
+		["ROGUE"] = {
+			["1"] = {
+				[117] = "spell|5||Cooking|Apprentice|2550",
+				[62] = "spell|2||Arcane Torrent|Racial|25046",
+				[105] = "spell|18||Pick Pocket||921",
+				[26] = "spell|13||Throw||2764",
+				[118] = "spell|12||Smelting||2656",
+				[18] = "spell|19||Stealth||1784",
+				[81] = "spell|15||Backstab|Rank 1|53",
+				[119] = "spell|9||First Aid|Apprentice|3273",
+				[89] = "macro|89||Target|Interface\\Icons\\Ability_Marksmanship|/targetenemy",
+				[17] = "macro|17||Target|Interface\\Icons\\Ability_Marksmanship|/targetenemy",
+				[9] = "spell|14||Eviscerate|Rank 1|2098",
+				[90] = "spell|19||Stealth||1784",
+				[120] = "spell|10||Jewelcrafting|Apprentice|25229",
+				[2] = "spell|16||Gouge||1776",
+				[20] = "spell|17||Sinister Strike|Rank 2|1757",
+			},
+			["2"] = {
+				[117] = "spell|5||Cooking|Apprentice|2550",
+				[119] = "spell|9||First Aid|Apprentice|3273",
+				[90] = "spell|19||Stealth||1784",
+				[62] = "spell|2||Arcane Torrent|Racial|25046",
+				[33] = "spell|18||Pick Pocket||921",
+				[17] = "macro|17||Target|Interface\\Icons\\Ability_Marksmanship|/targetenemy",
+				[18] = "spell|19||Stealth||1784",
+				[9] = "spell|17||Sinister Strike|Rank 2|1757",
+				[20] = "spell|15||Backstab|Rank 1|53",
+				[81] = "spell|15||Backstab|Rank 1|53",
+				[2] = "spell|16||Gouge||1776",
+				[118] = "spell|12||Smelting||2656",
+				[120] = "spell|10||Jewelcrafting|Apprentice|25229",
+				[26] = "spell|13||Throw||2764",
+				[105] = "spell|18||Pick Pocket||921",
+				[89] = "macro|89||Target|Interface\\Icons\\Ability_Marksmanship|/targetenemy",
+			},
+		},
+		["DRUID"] = {
+		},
+		["SHAMAN"] = {
+		},
+		["HUNTER"] = {
+		},
+	},
+	["spellSubs"] = {
+	},
+	["checkCount"] = false,
+}

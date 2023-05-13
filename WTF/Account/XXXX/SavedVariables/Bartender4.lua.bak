@@ -1,0 +1,141 @@
+
+Bartender4DB = {
+	["namespaces"] = {
+		["ActionBars"] = {
+			["profiles"] = {
+				["Ryac - Smolderthorn (Vanilla+)"] = {
+					["actionbars"] = {
+						{
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.4998963594072,
+								["point"] = "BOTTOM",
+								["y"] = 194.50004867488,
+							},
+						}, -- [1]
+						{
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.4998963594072,
+								["point"] = "CENTER",
+								["y"] = -166.9999945877751,
+							},
+						}, -- [2]
+						{
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.4998963594072,
+								["point"] = "CENTER",
+								["y"] = -151.5000031981329,
+							},
+						}, -- [3]
+						{
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.4998963594072,
+								["point"] = "CENTER",
+								["y"] = -113.5000190833645,
+							},
+						}, -- [4]
+						{
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.4998963594072,
+								["point"] = "CENTER",
+								["y"] = -75.50000797776011,
+							},
+						}, -- [5]
+						{
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.4998963594072,
+								["point"] = "CENTER",
+								["y"] = -37.49998787521042,
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						[9] = {
+						},
+						[10] = {
+						},
+					},
+				},
+			},
+		},
+		["MicroMenu"] = {
+			["profiles"] = {
+				["Ryac - Smolderthorn (Vanilla+)"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -188.7999408693886,
+						["point"] = "CENTER",
+						["scale"] = 0.800000011920929,
+						["y"] = 42.39991802859203,
+					},
+				},
+			},
+		},
+		["XPBar"] = {
+		},
+		["BlizzardArt"] = {
+		},
+		["BagBar"] = {
+			["profiles"] = {
+				["Ryac - Smolderthorn (Vanilla+)"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = 58.49997388777206,
+						["point"] = "CENTER",
+						["y"] = 1.49998871867399,
+					},
+				},
+			},
+		},
+		["Vehicle"] = {
+			["profiles"] = {
+				["Ryac - Smolderthorn (Vanilla+)"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = 53.49993951662918,
+						["point"] = "CENTER",
+						["y"] = 51.50006252174114,
+					},
+				},
+			},
+		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["Ryac - Smolderthorn (Vanilla+)"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -82.49997332546286,
+						["point"] = "CENTER",
+						["y"] = -14.99995016535752,
+					},
+				},
+			},
+		},
+		["PetBar"] = {
+			["profiles"] = {
+				["Ryac - Smolderthorn (Vanilla+)"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -163.4998859566891,
+						["point"] = "CENTER",
+						["y"] = 89.50010061818153,
+					},
+				},
+			},
+		},
+		["RepBar"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Ryac - Smolderthorn (Vanilla+)"] = "Ryac - Smolderthorn (Vanilla+)",
+	},
+	["profiles"] = {
+		["Ryac - Smolderthorn (Vanilla+)"] = {
+		},
+	},
+}

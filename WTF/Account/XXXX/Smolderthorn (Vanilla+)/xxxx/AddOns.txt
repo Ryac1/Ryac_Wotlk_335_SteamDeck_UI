@@ -1,0 +1,9 @@
+ZygorTalentAdvisor: disabled
+ZygorGuidesViewer: disabled
+SexyMap: enabled
+QuestCompletist: disabled
+QuestHelper: enabled
+Bartender4: enabled
+ButtonFacade: disabled
+ButtonForge: disabled
+Auctionator: disabled

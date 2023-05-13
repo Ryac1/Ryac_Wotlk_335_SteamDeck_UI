@@ -1,0 +1,56 @@
+
+SexyMapDB = {
+	["profileKeys"] = {
+		["Ryac - Smolderthorn (Vanilla+)"] = "Ryac - Smolderthorn (Vanilla+)",
+	},
+	["namespaces"] = {
+		["Ping"] = {
+		},
+		["Coordinates"] = {
+		},
+		["Buttons"] = {
+		},
+		["AutoZoom"] = {
+		},
+		["Shapes"] = {
+			["profiles"] = {
+				["Ryac - Smolderthorn (Vanilla+)"] = {
+					["shape"] = "Interface\\BUTTONS\\WHITE8X8",
+				},
+			},
+		},
+		["Fader"] = {
+		},
+		["Movers"] = {
+			["profiles"] = {
+				["Ryac - Smolderthorn (Vanilla+)"] = {
+					["scale"] = 1.34,
+				},
+			},
+		},
+		["Borders"] = {
+			["profiles"] = {
+				["Ryac - Smolderthorn (Vanilla+)"] = {
+					["applyPreset"] = false,
+					["backdrop"] = {
+						["show"] = true,
+						["settings"] = {
+							["edgeSize"] = 17,
+						},
+						["scale"] = 1.07,
+					},
+				},
+			},
+		},
+		["HudMap"] = {
+			["profiles"] = {
+				["Ryac - Smolderthorn (Vanilla+)"] = {
+					["setNewScale"] = true,
+					["scale"] = 1.4,
+				},
+			},
+		},
+		["ZoneText"] = {
+		},
+	},
+}

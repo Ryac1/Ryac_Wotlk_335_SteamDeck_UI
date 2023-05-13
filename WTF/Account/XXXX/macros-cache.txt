@@ -1,0 +1,35 @@
+MACRO 7 "Load1" Ability_Hunter_HunterVsWild
+/ads restore 1
+END
+MACRO 8 "Load2" Ability_Hunter_HunterVsWild
+/ads restore 2
+END
+MACRO 9 "Load3" Ability_Hunter_HunterVsWild
+/ads restore 3
+END
+MACRO 10 "Load4" Ability_Hunter_HunterVsWild
+/abs restore 4
+END
+MACRO 3 "Save1" Spell_ChargePositive
+/abs save 1
+END
+MACRO 4 "Save2" Spell_ChargePositive
+/abs save 2
+END
+MACRO 5 "Save3" Spell_ChargePositive
+/abs save 3
+END
+MACRO 6 "Save4" Spell_ChargePositive
+/abs save 4
+END
+MACRO 2 "stealth" Ability_Stealth
+/cast stealth
+/abs restore 2
+END
+MACRO 11 "Stealth2" Ability_Stealth
+/cast stealth
+/abs restore 1
+END
+MACRO 1 "Target" Ability_Marksmanship
+/targetenemy
+END
